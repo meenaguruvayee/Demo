@@ -4,11 +4,4 @@ Good Morning:)
 
 Welcome to Oracle!!
 
-From Meena Guruvayee:)
-<<<<<<< HEAD
-changes made
-go
-=======
-
-please succeed
->>>>>>> demo1
+Shankara Changed
